@@ -51,3 +51,8 @@ Another shortcoming would be what would happen if the state of the road was cata
 A possible improvement would be to work more on the smoothing of the lines, especialy in the video processing.
 
 Another potential improvement could be to use some "advanced" technics to predict lines incurving, and finaly being able to do the challenge.
+
+
+### 4. Sources
+
+A special thanks the Knowledge section of Udacity, I could find easily all the indications and answers to my own questions there.
